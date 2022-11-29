@@ -1,5 +1,5 @@
-                                                              👋 Hi, I’m Hafiz Mohammed Ainul-Absar a Enthuiastic Frontend Developer
-                                                              🌱 I’m currently working as a frontend developer @Cumin Technology
+-👋 Hi, I’m Hafiz Mohammed Ainul-Absar a Enthuiastic Frontend Developer
+-🌱 I’m currently working as a frontend developer @Cumin Technology
 
 
 <!---
